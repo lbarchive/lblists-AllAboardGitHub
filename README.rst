@@ -35,3 +35,11 @@ If It Exists, There Is A GitHub for It!
 
 * `github-drama <https://github.com/nikolas/github-drama>`_:
   "locked and limited conversation to collaborators"
+
+
+Uncategorized
+=============
+
+* `GitHub-Dark <https://github.com/StylishThemes/GitHub-Dark>`_ theme
+
+  .. figure:: https://github.com/StylishThemes/GitHub-Dark/raw/master/images/screenshots/after_blue.png
